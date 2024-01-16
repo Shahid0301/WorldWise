@@ -1,100 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Bari",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-01-14T11:33:49.457Z",
-      "notes": "",
-      "position": {
-        "lat": "26.63891495260226",
-        "lng": "77.62520683350304"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "l'Alcora",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-14T12:02:09.487Z",
-      "notes": "",
-      "position": {
-        "lat": "40.084537533910456",
-        "lng": "-0.21835327148437503"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Gwalior",
-      "country": "India",
-      "emoji": "🇮🇳",
-      "date": "2024-01-14T12:10:22.558Z",
-      "notes": "Nyc trip\n",
-      "position": {
-        "lat": "26.198723856909634",
-        "lng": "78.15811157226564"
-      },
-      "id": 98443200
-    },
-    {
       "cityName": "Agra",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-01-14T12:11:40.231Z",
-      "notes": "",
+      "date": "2024-01-14T12:24:06.952Z",
+      "notes": "trip1",
       "position": {
-        "lat": "27.170608282030624",
-        "lng": "78.01391601562501"
+        "lat": "27.1741492505122",
+        "lng": "78.00910949707033"
       },
-      "id": 98443201
+      "id": 1
     },
     {
-      "cityName": "Morena",
+      "cityName": "Beed",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2024-01-14T12:14:03.195Z",
+      "date": "2024-01-14T12:26:28.315Z",
       "notes": "",
       "position": {
-        "lat": "26.31452303979898",
-        "lng": "78.02490234375001"
+        "lat": "18.916230753712806",
+        "lng": "75.64636230468751"
       },
-      "id": 98443202
+      "id": 2
+    },
+    {
+      "cityName": "Malegaon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-14T12:26:32.949Z",
+      "notes": "",
+      "position": {
+        "lat": "20.519753858838616",
+        "lng": "74.55871582031251"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Kiraoli",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-16T06:43:09.571Z",
+      "notes": "",
+      "position": {
+        "lat": "27.13125762793055",
+        "lng": "77.79006958007814"
+      },
+      "id": 4
     }
   ]
 }
